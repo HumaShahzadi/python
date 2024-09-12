@@ -1,0 +1,29 @@
+* using pypi pkg install in virtual environment
+py -m venv my_ai
+my_ai\Scripts\activate
+Scripts\activate
+deactivate
+* gui using pkg Tkinter
+import tkinter as tk
+
+# greeting = tk.Label(text="Hello, Tkinter")
+root = tk.Tk()
+root.mainloop()
+
+rembg folder
+already install numpy, 
+easygui,
+rembg, pillow
+
+my_ai folder
+already install
+numpy,
+pandas,
+pillow, 
+seaborns,
+matplotlib
+
+
+
+
+
